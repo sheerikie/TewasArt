@@ -863,7 +863,7 @@ button:focus {
    ========================================================================== */
 #about {
   position: relative;
-  background: #f9f9f9;
+  background: #706e6e;
 }
 
 #about .box-item {
@@ -937,7 +937,7 @@ button:focus {
    Clients 
    ========================================================================== */
 #clients {
-  background: #f9f9f9;
+  background: #706e6e;
 }
 
 #clients .client-item-wrapper {
@@ -1032,7 +1032,7 @@ button:focus {
    Portfolio Section
    ========================================================================== */
 #portfolios {
-  background: #f9f9f9;
+  background: #706e6e;
 }
 
 #portfolios .mix {
@@ -1190,7 +1190,7 @@ button:focus {
 .services-item .icon i {
   width: 60px;
   height: 60px;
-  background: #f9f9f9;
+  background: #706e6e;
   display: inline-block;
   line-height: 60px;
   font-size: 24px;
@@ -1390,7 +1390,7 @@ button:focus {
 
 .single-team {
   position: relative;
-  background: #f9f9f9;
+  background: #706e6e;
   border-radius: 4px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -1474,7 +1474,7 @@ button:focus {
 }
 
 .testimonial {
-  background: #f9f9f9;
+  background: #706e6e;
 }
 
 .testimonial-item {
@@ -1622,12 +1622,12 @@ button:focus {
 }
 
 .pricing-table .pricing-details ul li:nth-child(even) {
-  background-color: #f9f9f9;
+  background-color: #706e6e;
 }
 
 .pricing-table .plan-button {
   padding: 30px 0;
-  background: #f9f9f9;
+  background: #706e6e;
 }
 
 .pricing-big {
@@ -2364,7 +2364,7 @@ footer .menu li a:hover {
 .counter-item {
   text-align: center;
   padding: 30px;
-  background: #f9f9f9;
+  background: #706e6e;
   border: 1px solid #eaeaea;
   margin: 15px 0;
 }
